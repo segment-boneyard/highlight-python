@@ -32,7 +32,7 @@ python.string = /(("""|"|')(\\?.)*?\2)/;
  * Booleans
  */
 
-python.boolean = /\b(true|false)\b/;
+python.boolean = /\b(True|False)\b/;
 
 /**
  * Keywords
